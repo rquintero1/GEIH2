@@ -559,4 +559,4 @@ tab ocupados_h area, column nofreq
    Universitario = 4
    Postgrado = 5
    No sabe, no informa = 9
-*/
+
